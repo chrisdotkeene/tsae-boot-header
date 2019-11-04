@@ -1,0 +1,27 @@
+{
+  "name": "@chrisdotkeene/tsae-boot-header",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": "^8.2.9",
+    "@angular/core": "^8.2.9"
+  },
+  "main": "bundles/tsae-boot-header.umd.js",
+  "module": "fesm5/tsae-boot-header.js",
+  "es2015": "fesm2015/tsae-boot-header.js",
+  "esm5": "esm5/tsae-boot-header.js",
+  "esm2015": "esm2015/tsae-boot-header.js",
+  "fesm5": "fesm5/tsae-boot-header.js",
+  "fesm2015": "fesm2015/tsae-boot-header.js",
+  "typings": "tsae-boot-header.d.ts",
+  "metadata": "tsae-boot-header.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "url": "git://github.com/chrisdotkeene/tsae-boot-header.git"
+  }
+}
